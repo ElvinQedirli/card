@@ -1,0 +1,13 @@
+.home_div{
+    width: 100%;
+    height: 100vh;
+    background-color: red;
+}
+
+.home_div h1{
+    color: white;
+    font-weight: 900;
+    font-size: 40px;
+    padding: 40px 0;
+    text-align: center;
+}
